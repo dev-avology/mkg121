@@ -1,0 +1,1 @@
+[11-Feb-2022 05:31:30 +0000]: <u3ud96li> IMAP Error: Login failed for bounce@mktg.booostr.co against localhost from 122.177.144.16. AUTHENTICATE PLAIN: Authentication failed. in /home/mktg/public_html/roundcube/program/lib/Roundcube/rcube_imap.php on line 200 (POST /roundcube/?_task=login&_action=login)
